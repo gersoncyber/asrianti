@@ -1,7 +1,7 @@
-alert("HALO..YANA....");  
+alert("HALO..NAYA....");  
 alert("Lagi Ngapain...");
-alert("udah ngopi belum..wwkwkw");
-alert("YANA....!!!");
+alert("udah tidur belum..wwkwkw");
+alert("Naya....!!!");
 alert("Aku cuman mau bilang");
 alert("klo aku mulai");
 alert("kagum sama Kamu");
@@ -12,6 +12,6 @@ alert("klo suka tulis kata SUKA yach ");
 var nama = prompt("TULIS DISINI");
 alert("tulis SUKA dong...");
 var nama = prompt ("yuk seriusin dong...");
-alert("ya udah makasi, YANA.....wkwkwk");
+alert("ya udah makasi, NAYA.....wkwkwk");
 
 
