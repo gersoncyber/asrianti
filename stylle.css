@@ -18,16 +18,16 @@ marquee{
  
 }
 .heart{
-    width: 170px;
+    width: 150px;
     height: 100px;
-    top: 50%;
+    top: 40%;
     position: absolute;
     display: block;
     margin-left: auto;
     margin-right: auto;
     background-color: #ff3e3e;
     transform-origin: right bottom;
-    transition: 5s;
+    transition: 10s;
 }
 
 
