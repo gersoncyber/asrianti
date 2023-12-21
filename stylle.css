@@ -18,7 +18,7 @@ marquee{
  
 }
 .heart{
-    width: 70px;
+    width: 170px;
     height: 100px;
     top: 50%;
     position: absolute;
@@ -27,7 +27,7 @@ marquee{
     margin-right: auto;
     background-color: #ff3e3e;
     transform-origin: right bottom;
-    transition: 10s;
+    transition: 5s;
 }
 
 
@@ -66,3 +66,5 @@ audio{
 
 
    
+
+
